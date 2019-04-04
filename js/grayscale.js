@@ -1,0 +1,1 @@
+$(window).scroll(function(){$(".main_head").offset().top>200?$(".fixed-top").addClass("top-nav-collapse"):$(".fixed-top").removeClass("top-nav-collapse")});

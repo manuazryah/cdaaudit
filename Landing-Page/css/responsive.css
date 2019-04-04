@@ -1,0 +1,238 @@
+
+@media (min-width:992px) and (max-width:1199px) {
+.main-section-header .banner-section .cont-box .head-text {
+    font-size: 40px;
+}
+.home-ready-discuss .head-text {
+    font-size: 18px;
+} 
+.home-ready-discuss .call-now {
+    font-size: 13px;
+}
+
+.home-portfolio-section{
+	margin:0px 0px 0px 20px;
+} 
+.work-features-section .list li {
+    font-size: 13px;
+} 
+.main-section-header .banner-section .cont-box {
+    color: #FFF;
+    padding: 100px 0px 20px 0px;
+} 
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+.industry-practices-section .Practices-box {
+    min-height: 165px;
+}     
+}
+
+@media (max-width:991px) {
+.main-section-header .banner-section .cont-box {
+    padding: 60px 0px 20px 0px;
+}	
+.main-section-header .banner-section .cont-box .head-text {
+    font-size: 28px;
+	padding: 10px 0px;
+    line-height: 38px;
+}
+	
+ .main-section-header .banner-section .cont-box .sub-text {
+    padding: 0px 0px; 
+}
+.main-section-header .banner-section .cont-box{
+	text-align:center;
+}
+.main-section-header .banner-section .form-box {
+    margin-left: 0px;
+    padding:30px 30px 15px 30px;
+	margin-top:35px;
+} 
+.main-section-header .banner-section .form-box .form-head-text {
+    position:static;
+	width:100%;
+	background:none;
+	padding:0px;
+	font-size:22px;
+}
+.main-section-header .banner-section .form-box .form-head-text .text-box {
+    padding: 0px 0px 10px 0px;
+    border:none;
+	font-size:20px;
+}
+.main-section-header .banner-section .form-box .form-head-text::after{
+	display:none;
+}
+.home-welcome-section .img-box {
+    padding-top: 30px;
+}
+.home-welcome-section .cont-box {
+    padding: 35px 0px 20px 0px;
+}
+.home-ready-discuss .head-text {
+    font-size: 18px;
+	padding: 18px 0px;
+	line-height:23px;
+} 
+.home-ready-discuss .call-now {
+    font-size: 18px;
+	padding: 18px 0px;
+	line-height:23px;
+} 
+.home-ready-discuss .get-free-quote {
+    padding: 24px 0px;
+}
+.home-ready-discuss .get-free-quote .link {
+    padding: 10px 26px;
+    font-size: 13px;
+}
+.in-main-help-you .box-cont {
+    min-height: auto;
+}
+.in-main-help-you .box-cont .cont {
+    margin: 30px 20px ;
+}
+
+.home-portfolio-section{
+	width:458px;
+	margin:0px auto;
+	margin-top:30px;
+}
+.testimonial-section .testimonial-box{
+	padding:35px 20px 0px 20px;
+}
+.work-features-section .list {
+    margin-top: 20px;
+}
+}
+
+
+
+@media (max-width:767px) {
+
+.main-section-header .header .logo img{
+   display:block;
+   margin:0px auto;
+}      
+.main-section-header .header .top-call-box {
+    width:384px;
+	margin:0px auto;
+	padding-top:30px;
+}
+.main-section-header .header .top-call-box .call-now {
+    padding: 9px 12px 8px 14px;
+}
+.main-section-header .header .top-call-box .mail {
+    padding: 7px 24px 8px 18px;
+}
+ .main-section-header .header .top-call-box .link{
+	font-size:12px;
+	letter-spacing:0px;
+}
+.main-section-header .banner-section .cont-box .sub-head {
+    font-size: 15px;
+}
+.main-section-header .banner-section .cont-box .sub-head b {
+    font-weight: 600;
+    font-size: 15px;
+}
+.home-ready-discuss .head-text {
+    padding: 30px 0px 0px 0px;
+	text-align:center;
+} 
+.home-ready-discuss .get-free-quote {
+    padding: 20px 0px;
+	background:none;
+}
+.home-ready-discuss .call-now {
+    padding: 0px 0px 27px 0px;
+}
+.home-welcome-section .cont-box{
+	text-align:center;
+}
+.home-welcome-section .main-heading {
+    text-align: center;
+}
+.home-welcome-section .main-heading::after {
+    right:0px;
+    margin: 0px auto;
+}
+
+.work-features-section .list li{
+    font-size: 15px;
+}
+ .copyright-section{
+	 text-align:center;
+ }
+.copyright-section .copy-link{
+	 text-align:center;
+	 margin-top:5px;
+ }
+ .industry-practices-section .col-sm-6{
+	border:1px solid #ebebeb;
+}
+ .industry-practices-section .Practices-box{
+	border:none;
+}
+.home-services-section .service-box .content-box .service-tilte {
+    font-size: 22px;
+}
+.home-company-features .col-sm-3{
+	-ms-flex: 0 0 33.3%;
+    flex: 0 0 33.3%;
+    max-width: 33.3%;
+}
+
+}
+@media (max-width:575px) {
+.work-features-section .list{
+	width:100%;
+	float:none;
+	padding:0px 0px;
+}
+.work-features-section .list li:last-child{
+    border-bottom: 1px solid #e5e5e5;
+}
+.home-services-section .service-box .content-box .service-tilte {
+    min-height:auto;
+}
+}
+
+@media (max-width:468px) {
+.main-section-header .header .top-call-box {
+    width:100%;
+}
+.main-section-header .header .top-call-box .call-now {
+    width:50%;
+	text-align:center;
+	padding: 5px 15px 5px 15px;
+}
+.main-section-header .header .top-call-box .mail {
+    width:50%;
+	padding: 4px 15px 4px 15px;
+	text-align:center;
+}
+.main-section-header .header .top-call-box .call-now::after{
+	display:none;
+	
+}
+.home-welcome-section .img-box .years-box {
+    padding: 0px 0px 0px 80px;
+    margin-left: 25px;
+}
+.home-welcome-section .img-box .years-box .no {
+    font-size: 35px;
+    top: -15px;
+}
+.home-welcome-section .img-box .years-box .text {
+    font-size: 16px;
+    padding-top: 8px;
+}
+}
+@media (max-width:399px){
+.main-section-header .header .top-call-box .call-now {
+	padding: 5px 25px 5px 25px;
+}
+}
